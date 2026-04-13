@@ -26,11 +26,7 @@ The robot uses three flame sensors (left, front, right) to detect fire. Based on
 - Pump activates when fire is detected
 
 ##  Demo Video
-(Add your video link here)
-
-## 📷 Circuit & Images
-(Add your circuit diagram and robot images here)
-
+https://youtu.be/KxWK_hUpbQ8
 ##  Features
 - Autonomous navigation
 - Real-time fire detection
